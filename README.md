@@ -13,6 +13,8 @@ If you're looking for the previous **first edition** books, [they can be found h
 
 - https://github.com/Hsien-HsiuLiao/You-Dont-Know-JS/tree/master
 
+- https://github.com/Hsien-HsiuLiao/You-Dont-Know-JS/branches
+
 
 
 ## Premier Sponsor
