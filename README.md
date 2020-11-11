@@ -9,6 +9,12 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 
 If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
+- https://github.com/Hsien-HsiuLiao/You-Dont-Know-JS/tree/1st-ed
+
+- https://github.com/Hsien-HsiuLiao/You-Dont-Know-JS/tree/master
+
+
+
 ## Premier Sponsor
 
 This edition of the **YDKJS** book series is exclusively sponsored by [Frontend Masters](https://frontendmasters.com).
